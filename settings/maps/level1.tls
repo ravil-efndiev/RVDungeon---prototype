@@ -1,0 +1,8 @@
+c # resources/map/chest_1.png
+$ resources/map/floor1.png
+c % resources/map/wal_down.png
+c & resources/map/wal_right.png
+c * resources/map/wal_top.png
+c @ resources/map/wal_left.png
+! resources/map/[LIGHT]_lamp.png
+^ resources/map/wal_top_top.png

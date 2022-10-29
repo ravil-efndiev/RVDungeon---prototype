@@ -1,0 +1,3 @@
+/Users/Belokan/ClionProjects/untitled7/CMakeFiles/untitled7.dir
+/Users/Belokan/ClionProjects/untitled7/CMakeFiles/edit_cache.dir
+/Users/Belokan/ClionProjects/untitled7/CMakeFiles/rebuild_cache.dir
