@@ -11,3 +11,7 @@ Almost working editor which allows us to create levels easylly, map is written t
 Also there are some shaders for light from player or light from any other object.  
 
 Weapon system with fight component are implemented but there are no attack animations for current character.
+![alt text](https://github.com/ravil-efndiev/RVDungeon---prototype/blob/main/screenshots/sh1.png)
+![alt text](https://github.com/ravil-efndiev/RVDungeon---prototype/blob/main/screenshots/sh2.png)
+![alt text](https://github.com/ravil-efndiev/RVDungeon---prototype/blob/main/screenshots/sh3.png)
+![alt text](https://github.com/ravil-efndiev/RVDungeon---prototype/blob/main/screenshots/sh4.png)
